@@ -8,5 +8,10 @@
   },
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "axe-core": "^4.10.3",
+    "express": "^5.1.0",
+    "puppeteer": "^24.6.1"
+  }
 }
